@@ -1,0 +1,11 @@
+name: DylCore
+version: ${project.version}
+main: com.spindel.dylcore.dylcore.DylCore
+api-version: 1.16
+authors: [DylanElmbark]
+description: Core plugin which will do useful things in the future I guess?
+website: https://dylanelmbark.github.io/
+commands:
+  dylcore:
+    description: Main command.
+    usage: /dylcore
